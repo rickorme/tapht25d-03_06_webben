@@ -62,8 +62,8 @@
 </main>
 ```
 
-1. No closing </section> tag
-2. No closing </h1> tag
-3. The <p> tag on line 4 is not closed before the next <p> tag is opened (on line 6)
-4. No src (url) provided for <img>
-5. Text after "<img" should be preceded by "alt=" and enclosed with quotes  
+1. No closing ```</section>``` tag
+2. No closing ```</h1>``` tag
+3. The ```<p>``` tag on line 4 is not closed before the next ```<p>``` tag is opened (on line 6)
+4. No src (url) provided for ```<img>```
+5. Text after ```<img``` should be preceded by "alt=" and enclosed with quotes  
